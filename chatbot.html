@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Health Bot</title>
+     <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="keywords"
+    content="Medick Responsive web template, Bootstrap Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+  <title>Medick Medical Category Bootstrap Responsive Web Template | Home :: W3Layouts </title>
+  <link href="//fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  <!-- Template CSS -->
+  <link rel="stylesheet" href="assets/css/style-starter.css">
+    <!-- Include necessary libraries and scripts -->
+    <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+</head>
+<body>
+              <!-- toggle switch for light and dark theme -->
+              <div class="mobile-position">
+                <nav class="navigation">
+                  <div class="theme-switch-wrapper">
+                    <label class="theme-switch" for="checkbox">
+                      <input type="checkbox" id="checkbox">
+                      <div class="mode-container">
+                        <i class="gg-sun"></i>
+                        <i class="gg-moon"></i>
+                      </div>
+                    </label>
+                  </div>
+                </nav>
+              </div>
+              <!-- //toggle switch for light and dark theme -->
+            </nav>
+          </div>
+        </header>
+      </div>
+        <!-- //header -->
+        <!--/w3l-banner-content-->
+        <div class="banner-w3l-main">
+          <div class="w3l-banner-content">
+            <div class="container">
+              <div class="bannerhny-info text-center">
+                <h3 class="title-subhny mb-2">Health Bot</h3>
+                
+
+
+
+    <!-- Embed the Health Bot web chat interface -->
+    <div id="webchat" role="main"></div>
+    <script>
+        // Define the Web Chat secret obtained from your Health Bot configuration
+        const webChatSecret = "dzuA2FepqJM.-GcYQy81lNzjIlRinPW8AipjxQB55V1Oxz5Y4i4Ckz8";
+
+        // Render the Health Bot web chat interface
+        window.WebChat.renderWebChat(
+            {
+                // Configure Direct Line with the Web Chat secret
+                directLine: window.WebChat.createDirectLine({ token: webChatSecret }),
+                // Customize user ID, username, locale, and style options as needed
+                userID: 'YOUR_USER_ID',
+                username: 'YOUR_USERNAME',
+                locale: 'en-US',
+                styleOptions: {
+                  bubbleBackground: '#000000',
+                bubbleFromUserBackground: '#000000',
+                bubbleTextColor: '#000000', // Set text color to black for bot messages
+                bubbleFromUserTextColor: '#000000', // Set text color to black for user messages
+                backgroundColor: '#FFFFFF', // Set background color of the chat window to white
+                accent: '#000000' // Set accent color (e.g., timestamp color) to black
+                }
+            },
+            document.getElementById('webchat') // Render web chat interface in the specified element
+        );
+    </script>
+</body>
+</html>
