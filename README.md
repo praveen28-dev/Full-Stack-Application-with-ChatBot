@@ -61,4 +61,4 @@ Health Bot: Health Bot powers the AI chatbot on the Burger Bliss website, provid
 ## Azure Portal Screenshots
 
 ### Azure Static WebApp
-![Screenshot 2024-05-26 171915](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/de80440f-ec78-4216-bb6e-95e4569823b3)
+<img width="1360" height="627" alt="image" src="https://github.com/user-attachments/assets/1ec77b41-9b11-40e1-9fc7-5e373a00295c" />
