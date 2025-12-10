@@ -44,19 +44,19 @@ Health Bot: Health Bot powers the AI chatbot on the Burger Bliss website, provid
 ### Screenshots
 
 ### Homepage
-![Screenshot 2024-05-26 171233](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/451b5567-930a-4ae0-9834-9e3407b9c87f)
+<img width="1355" height="674" alt="333876613-451b5567-930a-4ae0-9834-9e3407b9c87f" src="https://github.com/user-attachments/assets/68907c88-8dfe-487a-b1f5-e3be4932feb9" />
 
 ### About
-![Screenshot 2024-05-26 171320](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/d2e6a101-fb1b-46c0-96a8-293da483c9d3)
+<img width="1365" height="675" alt="333876687-d2e6a101-fb1b-46c0-96a8-293da483c9d3" src="https://github.com/user-attachments/assets/5b691cf0-abdf-411a-8336-9f463e2fa671" />
 
 ### Menu
-![Screenshot 2024-05-26 171343](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/7f8d03d5-803c-49b6-a3c2-3fad2d73dff2)
+<img width="1357" height="681" alt="333876703-7f8d03d5-803c-49b6-a3c2-3fad2d73dff2" src="https://github.com/user-attachments/assets/38546498-7d77-4f1a-9c9a-313ac27f516e" />
 
 ### Contact
-![Screenshot 2024-05-26 171401](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/8c689419-7011-4e58-af45-079f3ce3ea93)
+<img width="1363" height="675" alt="333876724-8c689419-7011-4e58-af45-079f3ce3ea93" src="https://github.com/user-attachments/assets/4a004d9c-c372-4bcd-9bc5-4d38095ca461" />
 
 ### Chatbot
-![Screenshot 2024-05-26 171430](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/f2a16ef5-020e-4051-af83-8851576422d1)
+<img width="1352" height="674" alt="333876741-f2a16ef5-020e-4051-af83-8851576422d1" src="https://github.com/user-attachments/assets/72436fa3-6014-4e18-96db-99f0eb685008" />
 
 ## Azure Portal Screenshots
 
